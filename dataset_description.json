@@ -16,5 +16,8 @@
     "HowToAcknowledge": "7T 3D-EPI PCASL with High SNR Efficiency and Robustness to Through-Plane B0 Field Gradients. Gael Saib, Alan P. Koretsky and S. Lalith Talagala. Magnetic Resonance in Medicine (2026)",
     "ReferencesAndLinks": [
         "https://doi.org/10.1002/mrm.70491"
+    ],
+    "EthicsApprovals": [
+        "This study is approved by local IRB "
     ]
 }
